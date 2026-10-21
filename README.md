@@ -1,43 +1,11 @@
-# Ohjelmisto 1 - Python harjoitukset
+# Ohjelmisto
 
 **Miska Lohikoski**
 
-## Moduuli 1-2
+## python tehtävät yms
 
-Tein tehtävät 1 ja 2.
+python folder
 
-## Moduuli 3
+## web dev tehtävät yms
 
-Tein tehtävät 1 - 6.
-
-## Moduuli 4
-
-Tein tehtävät 1 - 4.
-
-## Moduuli 5
-
-Tein tehtävät 1 - 6.
-
-## Moduuli 6
-
-Tein tehtävät 1 - 4.
-
-## Moduuli 7
-
-Tein tehtävät 1 - 6.
-
-## Moduuli 8
-
-Tein tehtävät 1 - 3.
-
-## Moduuli 9
-
-Tein tehtävät 1 - 4.
-
-## Moduuli 10
-
-Tein tehtävät 1 - 4.
-
-## Moduuli 11
-
-Tein tehtävät 1 - 4.
+web dev folder
