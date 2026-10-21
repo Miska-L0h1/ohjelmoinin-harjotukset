@@ -1,6 +1,6 @@
 #had to add the texts directly in here becaus filehandling is difrent between Windows and Unix and i dont have the time to work that out.
 
-import tools
+import python.peliprojekti.tools as tools
 
 #define intro (pull text from a text file that explains the game and "story")
 def intro():

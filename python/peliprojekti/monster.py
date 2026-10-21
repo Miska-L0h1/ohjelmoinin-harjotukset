@@ -1,5 +1,5 @@
 
-import tools
+import python.peliprojekti.tools as tools
 import random
 
 #define monser

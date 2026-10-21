@@ -1,8 +1,8 @@
 import random
-import tools
-import texts
-import monster
-import loot
+import python.peliprojekti.tools as tools
+import python.peliprojekti.texts as texts
+import python.peliprojekti.monster as monster
+import python.peliprojekti.loot as loot
 
 #get highscore from save file
 try:
