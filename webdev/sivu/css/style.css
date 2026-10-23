@@ -1,0 +1,46 @@
+body {
+    margin-top: 0%;
+    margin-bottom: 0%;
+    margin-right: 5%;
+    margin-left: 5%;
+}
+
+
+topbar {
+    position: relative;
+    display: flex;
+    justify-content: space-between;
+    width: 100%;
+    height: 8vh;
+    background-color: green;
+}
+logo {
+    display:flex;
+    flex-wrap: wrap;
+    height:inherit;
+    width: 20%;
+    background-color: darkgreen;
+}
+div.navigation {
+    width: 50%;
+    float: right;
+    align-items: center;
+    position: relative;
+    display: flex;
+    justify-content: space-between;
+    margin-right: 5%;
+    font-size: 120%;
+}
+
+container {
+    position: relative;
+    display: flex;
+    width: 100%;
+    height: 92vh;
+    background-color: brown;
+}
+
+div.title {
+    display: block;
+    justify-content: center;
+}
