@@ -41,6 +41,7 @@ container {
 }
 
 div.title {
+    position: relative;
     display: block;
     margin-top: 5%;
     margin-left: auto;
@@ -48,8 +49,12 @@ div.title {
     font-size: 150%;
 }
 
-img {
+div.picture{
+    position: absolute;
     display: block;
-    width: 100px;
+}
+
+img {
+    width: 50%;
     height: auto;
 }
