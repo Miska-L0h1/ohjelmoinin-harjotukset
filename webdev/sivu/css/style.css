@@ -13,6 +13,7 @@ topbar {
     width: 100%;
     height: 8vh;
     background-color: green;
+    margin-bottom: 0%;
 }
 logo {
     display:flex;
@@ -33,28 +34,77 @@ div.navigation {
 }
 
 container {
-    position: relative;
-    display: flex;
-    width: 100%;
-    height: 92vh;
+    position: absolute;
+    margin-top: 0%;
+    margin-bottom: 0%;
+    display: block;
+    width: 90%;
+    min-height: 100vh;
     background-color: brown;
 }
 
-div.title {
+product {
+    text-align: center;
     position: relative;
-    display: block;
     margin-top: 5%;
     margin-left: auto;
     margin-right: auto;
-    font-size: 150%;
+    margin-bottom: 10%;
+    display: block;
+    width: 30%;
+    height: auto;
+    background-color: blue;
 }
 
-div.picture{
-    position: absolute;
-    display: block;
+productgrid {
+    display: flex;
+}
+
+contact {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+div.text {
+    width: 80%;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+form.maps {
+    display: flex;
+    margin-left: auto;
+    margin-right: 0;
+}
+
+div.title {
+    text-align: center;
+    margin-top: 5%;
+}
+
+div.pictures {
+    text-align: center;
+}
+
+div.picturebig {
+    text-align: center;
+    height: auto;
 }
 
 img {
     width: 50%;
     height: auto;
+}
+
+div.ipsum {
+    width: 50%;
+    text-align: justify;
+    margin: auto;
+    font-size: 100%;
+}
+
+div.info {
+    display: block;
+    position: relative;
 }
