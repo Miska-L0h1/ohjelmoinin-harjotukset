@@ -6,7 +6,7 @@ body {
 }
 
 
-topbar {
+div.topbar {
     position: relative;
     display: flex;
     justify-content: space-between;
@@ -15,7 +15,7 @@ topbar {
     background-color: green;
     margin-bottom: 0%;
 }
-logo {
+div.logo {
     display:flex;
     flex-wrap: wrap;
     height:inherit;
@@ -33,7 +33,7 @@ div.navigation {
     font-size: 120%;
 }
 
-container {
+div.container {
     position: absolute;
     margin-top: 0%;
     margin-bottom: 0%;
@@ -43,7 +43,7 @@ container {
     background-color: brown;
 }
 
-product {
+div.product {
     text-align: center;
     position: relative;
     margin-top: 5%;
@@ -56,11 +56,11 @@ product {
     background-color: blue;
 }
 
-productgrid {
+div.productgrid {
     display: flex;
 }
 
-contact {
+div.contact {
     display: flex;
     flex-wrap: wrap;
 }
@@ -76,6 +76,7 @@ form.maps {
     display: flex;
     margin-left: auto;
     margin-right: 0;
+    width: auto;
 }
 
 div.title {
