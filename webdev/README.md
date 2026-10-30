@@ -1,4 +1,7 @@
 ## structure:
-html asignments in html folder
-css asignments in css
-js asignments in js
+# html asignments in site folder
+# screenshots in screenshots
+
+
+# css asignments in css
+# js asignments in js
