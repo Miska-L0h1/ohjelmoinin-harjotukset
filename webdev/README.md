@@ -1,8 +1,7 @@
 ## structure:
-### html asignments in site folder
+### site asignments code in site folder
 https://users.metropolia.fi/~miskaloh/
-### screenshots in screenshots
+### screenshot
 https://users.metropolia.fi/~miskaloh/screenshots/
 
-### css asignments in css
-### js asignments in js
+### js asignments code in js
