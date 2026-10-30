@@ -3,6 +3,13 @@ body {
     margin-bottom: 0%;
     margin-right: 5%;
     margin-left: 5%;
+    font-family: "Comic Relief";
+}
+
+.comic-relief-regular {
+  font-family: "Comic Relief", system-ui;
+  font-weight: 400;
+  font-style: normal;
 }
 
 
@@ -12,7 +19,7 @@ div.topbar {
     justify-content: space-between;
     width: 100%;
     height: 8vh;
-    background-color: green;
+    background-color: #1FFF1F;
     margin-bottom: 0%;
 }
 div.logo {
@@ -40,7 +47,7 @@ div.container {
     display: block;
     width: 90%;
     min-height: 100vh;
-    background-color: brown;
+    background-color: #E26571;
 }
 
 div.product {
@@ -53,7 +60,7 @@ div.product {
     display: block;
     width: 30%;
     height: auto;
-    background-color: blue;
+    background-color: #5D9CE9;
 }
 
 div.productgrid {
