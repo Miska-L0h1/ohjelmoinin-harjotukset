@@ -4,4 +4,4 @@ https://users.metropolia.fi/~miskaloh/
 ### screenshot
 https://users.metropolia.fi/~miskaloh/screenshots/
 
-### js asignments code in js
+### js asignments in js
