@@ -5,3 +5,4 @@ https://users.metropolia.fi/~miskaloh/
 https://users.metropolia.fi/~miskaloh/screenshots/
 
 ### js asignments in js
+https://github.com/Miska-L0h1/ohjelmoinin-harjotukset/tree/main/webdev/js
