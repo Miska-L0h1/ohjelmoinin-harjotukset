@@ -12,8 +12,27 @@ Completed assignments:
 - Task 2: 2 p
 - Task 3: 3 p
 - Task 4: 3 p
+- Task 5: 3 p
+- Task 6: 3 p
+- Task 7: 2 p
+- Task 8: 3 p
+- Task 9: 2 p
 
-**Total 10 p**
+**Total 23 p**
+
+Add notes about any problems or extra features here.
+
+---
+
+### JS modules 3
+
+[My link to js mod 3 folder at users.metropolia.fi](https://users.metropolia.fi/~miskaloh/js/mod03)
+
+Completed assignments:
+
+- Task 1: 2 p
+
+**Total  p**
 
 Add notes about any problems or extra features here.
 
