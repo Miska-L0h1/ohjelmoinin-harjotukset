@@ -31,8 +31,10 @@ Add notes about any problems or extra features here.
 Completed assignments:
 
 - Task 1: 2 p
+- Task 2: 2 p
+- Task 10: 8 p
 
-**Total  p**
+**Total  12p**
 
 Add notes about any problems or extra features here.
 
