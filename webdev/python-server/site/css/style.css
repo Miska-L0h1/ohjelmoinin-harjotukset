@@ -112,6 +112,13 @@ div.ipsum {
     font-size: 100%;
 }
 
+div.gambling {
+    width: 30%;
+    text-align: justify;
+    margin: auto;
+    font-size: 100%;
+}
+
 div.info {
     display: block;
     position: relative;
